@@ -7,7 +7,7 @@ SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = ./_build
-APP = ../freelance_pyhton
+APP = ../freelance_python
 
 
 .PHONY: help livehtml apidocs Makefile

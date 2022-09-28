@@ -1,9 +1,9 @@
-.. Python Freelance Projects Scanner documentation master file, created by
+.. Python Freelance Projects Scaner documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Python Freelance Projects Scanner's documentation!
+Welcome to Python Freelance Projects Scaner's documentation!
 ======================================================================
 
 .. toctree::

@@ -26,7 +26,7 @@ django.setup()
 
 # -- Project information -----------------------------------------------------
 
-project = "Python Freelance Projects Scanner"
+project = "Python Freelance Projects Scaner"
 copyright = """2022, Yura Ivanov"""
 author = "Yura Ivanov"
 

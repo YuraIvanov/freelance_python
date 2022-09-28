@@ -1,5 +1,5 @@
 """
-WSGI config for Python Freelance Projects Scanner project.
+WSGI config for Python Freelance Projects Scaner project.
 
 This module contains the WSGI application used by Django's development server
 and any production WSGI deployments. It should expose a module-level variable
